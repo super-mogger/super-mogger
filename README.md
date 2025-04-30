@@ -1,29 +1,33 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+@super-mogger;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+@super-mogger;Welcome+to+my+Deployment+Hub!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-- 🔭 I’m currently working on: **Open-source projects and personal development**
-- 🌱 I’m currently learning: **Advanced JavaScript, React, and Node.js**
-- 👯 I’m looking to collaborate on: **Web development projects and innovative tech solutions**
-- 📫 How to reach me: **[supermogger@example.com](mailto:supermogger@example.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love exploring new technologies and building creative solutions!**
+- 🔑 **Deployment Hub** for projects developed by [@amitsinghrawat777](https://github.com/amitsinghrawat777)
+- 🚀 **Live Deployments** hosted on platforms like **Vercel** and **Netlify**
+- 🛠️ **Key Projects**:
+  - [Triple-A Gym Management App](https://github.com/amitsinghrawat777/triple-a-gym-management)
+  - [Project 2](https://github.com/amitsinghrawat777/project-2)
+  - [Project 3](https://github.com/amitsinghrawat777/project-3)
+- 🌱 Currently exploring **CI/CD pipelines** and **cloud deployments**
+- 📫 Reach me at: [supermogger@example.com](mailto:supermogger@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I bridge the gap between development and deployment!
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
