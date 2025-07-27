@@ -1,5 +1,5 @@
 
-<h1> Well This Is Super-Mogger</h1>
+<h1 style="color: red"> Well This Is Super-Mogger</h1>
 
 # have Fun kids 😏
 ## 🌐 Socials:
