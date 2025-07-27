@@ -1,5 +1,5 @@
 
-<h1 style="color: red"> Well This Is Super-Mogger</h1>
+<h1  style={{ color: 'red', fontSize: '2.5rem', marginBottom: '12px' }> Well This Is Super-Mogger</h1>
 
 # have Fun kids 😏
 ## 🌐 Socials:
